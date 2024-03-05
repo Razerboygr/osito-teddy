@@ -1,0 +1,144 @@
+#contenedor{
+    width: 600px;
+    height: 2000px;
+    background-color: aqua;
+    margin: auto;
+}
+#caja1{
+    width: 300px;
+    height: 300px;
+    background-color: maroon;
+    display: inline-block;
+    position: relative;
+    border-radius: 1000px;
+    left: 150px;
+    top: 100px;
+
+}
+#caja1-1{
+    width: 20px;
+    height: 40px;
+    background-color: black;
+    display: inline-block;
+    position: relative;
+    border-radius: 100px;
+    left: 90px;
+    top: 10px;
+}
+#caja1-2{
+    width: 20px;
+    height: 40px;
+    background-color: black;
+    display: inline-block;
+    position: relative;
+    border-radius: 100px;
+    left: 160px;
+    top: 10px;
+    
+}
+#caja1-3{
+    width: 130px;
+    height: 130px;
+    background-color:limegreen;
+    display: inline-block;
+    position: relative;
+    border-radius: 100px;
+    left: 40px;
+    top: 140px;
+    
+}
+#caja1-4{
+    width: 50px;
+    height: 30px;
+    background-color: black;
+    display: inline-block;
+    position: relative;
+    border-radius: 50px;
+    right: 56px;
+    top: 50px;
+    
+}
+
+
+#caja2{
+    width: 150px;
+    height: 150px;
+    background-color: maroon;
+    display: inline-block;
+    position: relative;
+    top: 100px;
+    left: 50px;
+    border-radius: 100px;
+}
+
+#caja3{
+    width: 150px;
+    height: 150px;
+    background-color: maroon;
+    display: inline-block;
+    position: relative;
+    top: -220px;
+    left: 100px;
+    border-radius: 100px;
+}
+#caja4{
+    width: 400px;
+    height: 400px;
+    background-color: maroon;
+    border-radius: 100px;
+    display: inline-block;
+    position: relative;
+    top: 40px;
+    right: 50px;
+    border-radius: 10000px;
+}
+#caja4-1{
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    display: inline-block;
+    position: relative;
+    top: 120px;
+    left: 130px;
+    border-radius: 100px;
+}
+#caja5{
+    width: 250px;
+    height: 100px;
+    background-color: maroon;
+    border-radius: 100px;
+    position: relative;
+    transform: rotate(130deg);
+    left: 80px;
+    top: -10px;
+}
+#caja6{
+    width: 250px;
+    height: 100px;
+    background-color: maroon;
+    border-radius: 100px;
+    position: relative;
+    transform: rotate(130deg);
+    left: 20px;
+    top: -380px;
+}
+#caja7{
+    width: 250px;
+    height: 100px;
+    background-color: maroon;
+    border-radius: 100px;
+    position: relative;
+    transform: rotate(45deg);
+    left: 330px;
+    top: -490px;
+}
+#caja8{
+    width: 250px;
+    height: 100px;
+    background-color: maroon;
+    border-radius: 100px;
+    position: relative;
+    transform: rotate(45deg);
+    left: 300px;
+    top: -320px;
+}
